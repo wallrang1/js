@@ -1,0 +1,45 @@
+#frame {
+  background-color: white;
+  border-radius: 20px;
+  width: 400px;
+  margin: auto;
+  padding: 30px;
+  margin-top: 30px; 
+}
+
+body {
+  background-color: powderblue;
+  align-content: center;
+}
+
+h1 {
+  text-align: center;
+  color: aqua;
+}
+
+a:visited, a:link{
+  font-size: 20px;
+  color: blue;
+  text-decoration: underline;
+}
+
+a:hover {
+  font-size: 20px;
+  font-weight: bold;
+  color: orangered;
+  text-decoration: underline;
+}
+
+li {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+#tt1 {
+  background-color: darksalmon;
+  border-radius: 10px;
+  color: aliceblue;
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px;
+}
