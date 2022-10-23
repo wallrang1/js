@@ -1,0 +1,43 @@
+body {
+  background-color: blue;
+  text-align: center;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#frame {
+  width: 370px;
+  background-color: aqua;
+  margin: auto;
+  padding: 30px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: dodgerblue;
+}
+
+#btn {
+  margin: 20px;
+  width: 100px;
+  height: 20px;
+  background-color: rgb(241, 155, 41);
+  color: white;
+  font-size: 20px;
+  border: 0px;
+}
+
+#result {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+input {
+  border: 0px;
+  border-bottom: 1px solid gray;
+}

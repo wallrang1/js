@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color:aquamarine
+}
+
+input {
+  width: 50px;
+  height: 20px;
+  background-color: rgb(187, 187, 187);
+}
+
+#btn {
+  width: 100px;
+  height: 50px;
+  background-color: aliceblue;
+  color: blueviolet;
+  border: 1px solid black;
+}
